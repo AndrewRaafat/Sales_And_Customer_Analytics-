@@ -1,92 +1,81 @@
-📊 Midterm Data Analytics Project
-📌 Project Overview
+# 📊 Midterm Data Analytics Project
 
-This project demonstrates the complete Data Analytics Workflow, from data cleaning and preparation to exploratory data analysis (EDA) and interactive data visualization.
+ ## 📌 Project Overview
 
-The project was completed using Microsoft Excel for data cleaning and analysis, and Power BI for creating meaningful visualizations and dashboards.
+ This project demonstrates the complete **Data Analytics Workflow**, from data cleaning and preparation to exploratory data analysis (EDA) and interactive data visualization.
 
-🎯 Project Objectives
+ The project was completed using **Microsoft Excel** for data cleaning and analysis, and **Power BI** for creating meaningful visualizations and dashboards.
 
-The main objectives of this project are to:
+---
 
-Clean and prepare a real-world dataset.
+ ## 🎯 Project Objectives
 
-Handle missing values and duplicate records.
+ The main objectives of this project are to:
 
-Correct incorrect data types and data inconsistencies.
+ - Clean and prepare a real-world dataset.
+- Handle missing values and duplicate records.
+- Correct incorrect data types and data inconsistencies.
+- Explore the dataset using Exploratory Data Analysis (EDA).
+- Identify distributions, trends, patterns, and outliers.
+- Apply basic statistics and grouping techniques.
+- Build meaningful and interactive visualizations using Power BI.
+- Extract useful insights from the data.
 
-Explore the dataset using Exploratory Data Analysis (EDA).
+---
 
-Identify distributions, trends, patterns, and outliers.
+ ## 🛠️ Tools & Technologies
 
-Apply basic statistics and grouping techniques.
+ - **Microsoft Excel** – Data Cleaning & Exploratory Analysis
+- **Microsoft Power BI** – Data Visualization & Dashboard
+- **GitHub** – Project Documentation & Version Control
 
-Build meaningful and interactive visualizations using Power BI.
+---
 
-Extract useful insights from the data.
+ ## 🔄 Project Workflow
 
-🛠️ Tools & Technologies
+ ### 1\. Data Cleaning & Preparation
 
-Microsoft Excel – Data Cleaning & Exploratory Analysis
+ The dataset was cleaned and prepared using Microsoft Excel.
 
-Microsoft Power BI – Data Visualization & Dashboard
+ The cleaning process included:
 
-GitHub – Project Documentation & Version Control
+ - Handling missing values
+- Removing duplicate records
+- Correcting data types
+- Identifying and resolving inconsistencies
+- Checking data quality
+- Preparing the dataset for analysis
 
-🔄 Project Workflow
-1. Data Cleaning & Preparation
+ ### 2\. Exploratory Data Analysis (EDA)
 
-The dataset was cleaned and prepared using Microsoft Excel.
+ After cleaning the dataset, an exploratory analysis was performed to better understand the data.
 
-The cleaning process included:
+ The analysis focused on:
 
-Handling missing values
+ - Data distributions
+- Trends and patterns
+- Outliers
+- Basic descriptive statistics
+- Grouping and aggregation
+- Relationships between variables
 
-Removing duplicate records
+ ### 3\. Data Visualization
 
-Correcting data types
+ Microsoft Power BI was used to create interactive visualizations and dashboards.
 
-Identifying and resolving inconsistencies
+ The dashboard includes charts and visuals designed to highlight:
 
-Checking data quality
+ - Key metrics
+- Important trends
+- Data distributions
+- Comparisons between different categories
+- Significant patterns and insights
 
-Preparing the dataset for analysis
+---
 
-2. Exploratory Data Analysis (EDA)
+ ## 📁 Project Structure
 
-After cleaning the dataset, an exploratory analysis was performed to better understand the data.
-
-The analysis focused on:
-
-Data distributions
-
-Trends and patterns
-
-Outliers
-
-Basic descriptive statistics
-
-Grouping and aggregation
-
-Relationships between variables
-
-3. Data Visualization
-
-Microsoft Power BI was used to create interactive visualizations and dashboards.
-
-The dashboard includes charts and visuals designed to highlight:
-
-Key metrics
-
-Important trends
-
-Data distributions
-
-Comparisons between different categories
-
-Significant patterns and insights
-
-📁 Project Structure
+```
 Midterm-Data-Analytics-Project/
 │
 ├── Data/
@@ -99,55 +88,54 @@ Midterm-Data-Analytics-Project/
 │   └── Dashboard.png
 │
 └── README.md
+```
 
-📊 Deliverables
+---
 
-The final project includes:
+ ## 📊 Deliverables
 
-✅ Cleaned Dataset in Excel
+ The final project includes:
 
-✅ Exploratory Data Analysis
+ - ✅ Cleaned Dataset in Excel
+- ✅ Exploratory Data Analysis
+- ✅ Power BI Dashboard
+- ✅ Data Visualizations
+- ✅ Key Data Insights
+- ✅ Project Documentation
 
-✅ Power BI Dashboard
+---
 
-✅ Data Visualizations
+ ## 💡 Key Insights
 
-✅ Key Data Insights
+ The analysis was used to identify important trends, patterns, distributions, and potential outliers within the dataset.
 
-✅ Project Documentation
+ > Detailed insights and findings are presented in the Power BI dashboard.
 
-💡 Key Insights
+---
 
-The analysis was used to identify important trends, patterns, distributions, and potential outliers within the dataset.
+ ## 🎓 Learning Outcomes
 
-Detailed insights and findings are presented in the Power BI dashboard.
+ Through this project, I practiced:
 
-🎓 Learning Outcomes
+ - Real-world data cleaning techniques
+- Data preparation using Excel
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- Data visualization
+- Dashboard design using Power BI
+- Extracting insights from data
+- Documenting and presenting an analytics project
 
-Through this project, I practiced:
+---
 
-Real-world data cleaning techniques
+ ## 👨‍💻 Author
 
-Data preparation using Excel
+ **Andrew Raafat**
 
-Exploratory Data Analysis (EDA)
+ Data Analytics Student | Excel | Power BI | Data Analysis
 
-Statistical analysis
+---
 
-Data visualization
+ ## ⭐ Project
 
-Dashboard design using Power BI
-
-Extracting insights from data
-
-Documenting and presenting an analytics project
-
-👨‍💻 Author
-
-Your Name
-
-Data Analytics Student | Excel | Power BI | Data Analysis
-
-⭐ Project
-
-If you find this project useful, feel free to ⭐ the repository.
+ If you find this project useful, feel free to ⭐ the repository.
