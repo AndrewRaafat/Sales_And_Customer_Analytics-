@@ -102,6 +102,7 @@ Midterm-Data-Analytics-Project/
 - ✅ Data Visualizations
 - ✅ Key Data Insights
 - ✅ Project Documentation
+<img width="1310" height="737" alt="Screenshot 2026-10-04 195251" src="https://github.com/user-attachments/assets/1142b87d-2639-424a-871d-34a851ebb928" />
 
 ---
 
